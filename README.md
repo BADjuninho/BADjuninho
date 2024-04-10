@@ -13,6 +13,7 @@
   <img tittle="PHP" align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img tittle="Laravel" align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
   <img tittle="Python" align="center" alt="Python" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
+  <img tittle="Python" align="center" alt="Python" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"> 
 </div>
  
  <br>
