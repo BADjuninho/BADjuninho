@@ -4,7 +4,7 @@
    <a href="https://github.com/BADjuninho">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BADjuninho&show_icons=true&theme=transparent"/>
    <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADjuninho)](https://github.com/anuraghazra/github-readme-stats"/>
+   <img height="180em" src="https://github.com/BADjuninho/github-readme-stats"/>
 
 </div>
 <div style="display: inline_block"><br>
